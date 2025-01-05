@@ -62,12 +62,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/prasad-ahinave/prasad-ahinave/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/prasad-ahinave/count.svg?"  />
 </div>
