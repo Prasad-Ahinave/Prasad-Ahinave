@@ -67,4 +67,11 @@
 </div>
 
 ###
+<h4 align='center' > 
+   Always open to connecting and exploring new opportunities. Feel free to reach out!
+</h4>
+
+<p align='center'>
+   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&lines=Thanks+for+stopping+by!+👍 "> 
+</p>
 
