@@ -14,7 +14,7 @@
 <img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 ###
-
+<h3 align="left">🧑‍💻TecH STaCk</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -44,7 +44,7 @@
 </div>
 
 ###
-
+<h3 align="left">😇CoNnEct WiTh Me⚡</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/prasad-ahinave-69b833281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
