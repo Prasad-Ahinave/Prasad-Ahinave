@@ -50,7 +50,7 @@ Hi, I'm [Prasad Ahinave](https://www.PrasadAhinave.com/), a web and app develope
 
 ---
 ### 📢 Find me elsewhere
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.codechef.com/users/abhimaira_10">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -66,7 +66,7 @@ Hi, I'm [Prasad Ahinave](https://www.PrasadAhinave.com/), a web and app develope
   <a href="https://www.codewars.com/users/abhimaira_10">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 <hr>
 
@@ -79,13 +79,13 @@ Hi, I'm [Prasad Ahinave](https://www.PrasadAhinave.com/), a web and app develope
 
 </br>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+<!-- <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
 </a>
 <a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
 </a>
-<div align="center">
+<div align="center"> -->
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
